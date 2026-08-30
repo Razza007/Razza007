@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on hackathon web projects<br><br> I’m currently learning PHP, JavaScript, HTML, CSS, and UI design<br><br> Ask me about HTML, CSS, JavaScript, PHP, and Canva design<br><br>I love combining code with Canva designs to build fast hackathon prototypes
+I am a passionate developer focused on building rapid prototypes and impactful web applications for hackathons. I love bridging the gap between code and design to turn ideas into functional, visually striking products.
+
+* 🚀 **Current Focus:** Building web projects for upcoming hackathons.
+* 📚 **Learning & Growing:** Deepening my knowledge in backend development (PHP), advanced JavaScript, and modern UI/UX design methodologies.
+* 💬 **Ask Me About:** Frontend development (HTML, CSS, JS), full-stack integration, and rapid prototyping with Canva.
 
 
 ## 🌐 Socials:
